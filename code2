@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table 2</title>
+</head>
+<body>
+     <table border="1px" style="height:700px;" width="100%" cellspacing="10px" align="center">
+        <thead>
+            <tr align="center">
+                <th  style="height: 100px;">Column 1</th>
+                <th  style="height: 100px;">Column 2</th>
+                <th  style="height: 100px;">Column 3</th>
+             </tr>
+            
+        </thead>
+        <tbody style="height: 100px;">
+            <tr align="center">
+                <td  style="height: 100px;" rowspan="2">Row 1 Cell 1</td>
+                <td  style="height: 100px;">Row 1 Cell 2</td>
+                <td  style="height: 100px;">Row 1 Cell 3</td>
+                
+            </tr>
+            <tr align="center">
+               
+                <td  style="height: 100px;">Row 2 Cell 2</td>
+                <td  style="height: 100px;">Row 2 Cell 3</td>
+                
+            </tr>
+            <tr align="left">
+                <td style="height: 100px; padding-left: 177px;" colspan="3">Row 3 Cell 1</td>
+            </tr>
+        </tbody>
+     </table>
+    
+</body>
+</html>
