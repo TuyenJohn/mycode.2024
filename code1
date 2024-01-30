@@ -1,0 +1,60 @@
+<!DOCTYPE html> html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width, initial-scale=1.0">
+    <title>Demo</title>
+</head>
+<body>
+<table border="2px" align="CENTER" CELLSPACING="0" height="700px">
+     <thead height="100px" style="background-color: lightgrey;"height="100%">
+         <tr>
+<th>MONDAY</th
+    <th>TUESDAY</th>
+    <th>WEDNESDAY</th>
+    <th>THURSDAY</th>
+    <th>FRIDAY</th>
+    <th>SATURDAY</th>
+    <th>SUNDAY</th>
+   </tr>
+ </thead>
+ <tbody >
+<tr align="CENTER" height="100px" >
+ <td style="background-color: darkmagenta;">PUBLIC SWIM</td>
+ <td style="background-color: lightcoral;">PUBLIC SWIM</td>
+ <td style="background-color: peru">PUBLIC SWIM</td>
+ <td style="background-color: deeppink">PUBLIC SWIM</td>
+ <td style="background-color: yellow;">PUBLIC SWIM</td>
+ <td style="background-color: skyblue;">LANE SWIM</td>
+ <td style="background-color: darkseagreen;">LANE SWIM</td>
+</tr>
+<tr align="CENTER" height="100px">
+<td style="background-color: skyblue;">AQUACISE</td>
+<td style="background-color: skyblue;">AQUA JOG</td>
+<td style="background-color: skyblue;">EDUCATION SWIMMING LESSONS</td>
+<td style="background-color: skyblue;">AQUACISE</td>
+<td style="background-color: skyblue;">EDUCATION SWIMMING LESSONS</td>
+<td style="background-color: lightgreen;">OLDHAM ACTIVE KIDS SWIMMING </td>
+<td style="background-color: lightgreen;">PUBLIC SWIM</td>
+ </tr>
+<tr align="CENTER" height="100px">
+    <td style="background-color: rgb(210, 235, 135);">LNE SWIM</td>
+    <td style="background-color: rgb(235, 150, 135);">PARENT & BABY CLASS</td>
+    <td style="background-color: rgba(0, 1, 82, 0.432);">LANE SWIM</td>
+    <td style="background-color: rgb(42, 98, 100);">LANE SWIM</td>
+    <td style="background-color: skyblue;">LANE SWIM</td>
+    <td style="background-color: rgb(64, 179, 139);">PUBLIC SWIM</td>
+    <td style="background-color: rgb(235, 175, 135);">AQUACISE</td>
+ </tr>
+ <tr align="CENTER" height="100px">
+ <td style="background-color: rgb(135, 235, 145);">EDUCATION SWIMMING LESSONS</td>
+ <td style="background-color: rgb(235, 135, 135);">PARENT & BABY CLASS</td>
+ <td style="background-color: rgb(66, 6, 32);">PUBLIC SWIM</td>
+ <td style="background-color: rgb(135, 235, 152);">OLDHAM ACTIVE KIDS SWIMMING </td>
+ <td style="background-color: skyblue;">PUBLIC SWIM</td>
+ <td style="background-color: rgba(8, 149, 243, 0.699);">PUBLIC SWIM</td>  
+ </tr>
+ </tbody>
+ </table>
+</body>
+</html>
